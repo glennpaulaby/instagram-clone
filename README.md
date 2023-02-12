@@ -2,40 +2,9 @@ A custom made Instagram Clone using HTML and CSS by training provided from DevTw
 
 the landing page -
 ![image](https://user-images.githubusercontent.com/91583403/218315480-9d2d5182-c618-4b8c-9e7b-ed3f17fc0c4a.png)
-![image](https://user-images.githubusercontent.com/91583403/218315485-08fba22f-97fc-4b5b-8229-7eac20a66b31.png)
+![image](https://user-images.githubusercontent.com/91583403/218315902-77c6104b-755e-465c-8db9-bb7f2ebb9900.png)
 
 the header of HTML code - 
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"
-      rel="stylesheet"
-    />
-  </head>
-  <body>
-    <!-- Sidebar -->
-    <div class="sidebar">
-      <a href="#" class="logo">
-        <img src="img1/logo.png" alt="logo" />
-      </a>
-      <!-- Profile Image -->
-      <div class="profile">
-        <div class="profile-img">
-          <img src="img1/profile.jpeg" alt="profile" />
-        </div>
-        <div class="name">
-          <h1>Glenn Paul Aby</h1>
-          <img src="img1/verify.png" alt="verify" />
-        </div>
-        <span>@glenn</span>
-      </div>
       
 code for the sidebar -
               <a href="#" >
