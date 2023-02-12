@@ -6,55 +6,9 @@ the landing page -
 
 the header of HTML code - 
       
-code for the sidebar -
-              <a href="#" >
-            <span class= "icon">
-                <i class="ri-function-line"></i>
-            </span>
-            Feed
-          </a>
-          <a href="#" >
-              <span class= "icon">
-                  <i class="ri-notification-4-line"></i>
-              </span>
-              Notification
-            </a>
-            <a href="#" >
-                <span class= "icon">
-                    <i class="ri-search-line"></i>
-                </span>
-                Explore
-              </a>
-              <a href="#" ">
-                  <span class= "icon">
-                      <i class="ri-mail-unread-fill"></i>
-                  </span>
-                  Message
-                </a>
-                <a href="#" >
-                    <span class= "icon">
-                        <i class="ri-send-plane-fill"></i>
-                    </span>
-                    Direct
-                  </a>
-                  <a href="#" >
-                      <span class= "icon">
-                          <i class="ri-bar-chart-2-fill"></i>
-                      </span>
-                      Stats
-                    </a>
-                    <a href="#" >
-                        <span class= "icon">
-                            <i class="ri-settings-5-line"></i>
-                        </span>
-                        Settings 
-                      </a>
-                      <a href="#" >
-                          <span class= "icon">
-                              <i class="ri-logout-box-r-line"></i>
-                          </span>
-                          Logout
-                        </a>
+![image](https://user-images.githubusercontent.com/91583403/218315978-38cea137-ed39-482d-8431-3aacfecdd0c0.png)
+
+
     
 stories block - 
  
