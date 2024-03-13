@@ -1,4 +1,4 @@
-A custom made Instagram Clone using HTML and CSS by training provided from DevTwon 'Instagram Clone using HTML and CSS Workshop'
+I made this project during the 7 Days Free Bootcamp, by DevTown .Throughout the session Mr. Shaurya Sinha (Co-Founder at DevTown) gave basic understanding of HTML and CSS inorder to create a Clone of Instagram UI. 
 
 live working project made using codesanbox - https://codesandbox.io/s/trusting-bose-9ho9fd
 
